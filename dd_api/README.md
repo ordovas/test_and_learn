@@ -1,0 +1,3 @@
+# Dungeons & Dragons API
+
+Playing with the structure of the public D&D API, to see what I can find there and what can I do...
