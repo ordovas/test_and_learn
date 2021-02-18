@@ -1,2 +1,3 @@
-# test_and_learn
-My own stuff to test and learn
+# Test & Learn
+
+My own stuff to test and learn. I'm afraid this repo might not be very interesting for you...
