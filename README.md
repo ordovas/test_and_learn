@@ -1,3 +1,3 @@
 # Test & Learn
 
-My own stuff to test and learn. I'm afraid this repo might not be very interesting for you...
+My own stuff to test and learn. These are just exercises and things I try.
