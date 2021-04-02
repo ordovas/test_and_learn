@@ -1,6 +1,8 @@
 #Datasets, weights and models
 vgg16/covid19-dataset/*
 vgg16/vgg16_1.h5
+gan-example/*.png
+gan-example/*.h5
 
 #Byte-compiled / optimized / DLL files
 __pycache__/
